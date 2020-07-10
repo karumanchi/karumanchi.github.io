@@ -1,2 +1,2 @@
 # karumanchi.github.io
-Apply ML &amp; AI to Hedge Funds
+Applying ML &amp; AI to Hedge Funds
